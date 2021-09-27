@@ -68,4 +68,4 @@ def mywindow(image_path, save_path):
         cv2.imwrite(save_path, output_im, None)
 
 if __name__ == '__main__':
-    mywindow("11.jpg", "save.jpg")
+    mywindow("22.jpg", "save.jpg")
